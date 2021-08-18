@@ -1,7 +1,7 @@
 # Python-Exercises
-This projects consists of python solutions to four simple coding challenges, namely the Doubler, Fizz-Buzz, Goodbye and Average-Of-Three.
+This projects consists of python solutions to four simple coding challenges.
 
-## Challenges: 
+## Challenges :nerd_face:: 
 
 ### Doubler
 Write a method doubler(numbers) that takes an array of numbers and returns a new array
